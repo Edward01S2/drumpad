@@ -1,2 +1,2 @@
 # Javascript Drum Pad
-View demo at edwardindustries.com/drumpad
+View demo [here](http://www.edwardindustries.com/drumpad).
